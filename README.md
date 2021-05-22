@@ -20,3 +20,6 @@ Data Stream Processing is a novel computing paradigm for massive amount of data 
     - *Stateful*(Aggregate, Join, and Cartesian Product): do keep state across tuples. 
       - perform operations on sequences of tuples by sliding windoes of tuples over a period of time.
  
+## Parallel Data Streaming
+### Parallelization Strategies depending on granulaity of the parallization unit
+![Parallelization Strategies depending on granulaity of the parallization unit](https://user-images.githubusercontent.com/59812671/119214625-220eb680-ba7d-11eb-9bea-7c61aab4b806.png)
